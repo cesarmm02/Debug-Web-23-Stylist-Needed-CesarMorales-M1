@@ -1,0 +1,15 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: black;
+  font-size: 12px; /*fixed fontsize to font-size*/
+}
+h1 {
+  font-weight: bold;
+  color: blue; /*changed color to blue*/
+}
+/*changes all instances of h2 on the webpage*/
+h2 {
+  color: green; /*changed color to green*/
+}
